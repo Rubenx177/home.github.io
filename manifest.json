@@ -1,0 +1,20 @@
+{
+	"name": "Mi primer PWA",
+	"short_name": "MyPWA",
+	"description": "Aplicación demo",
+	"background_color": "#FFF",
+	"theme_color": "#10161F",
+	"orientation": "portrait",
+	"display": "standalone",
+	"start_url": "./Casa.html?utm_source=web_app_manifest",
+	"scope": "./",
+	"lang": "es-MX",
+	"icons":[
+		{
+			"src": "./images/Pokmon_Trading_Card_Game_logo.png",
+			"sizes": "2560x1313",
+			"type": "image/png"
+		}
+	]
+}
+
